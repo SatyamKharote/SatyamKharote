@@ -2,10 +2,6 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95259c3fe19c6b6acad85c6162f4c797623ec821476&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkharote&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkharote" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamkharote" alt="satyamkharote" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack Development and DSA**
 
 - 💬 Ask me about **Web Development, Java**
