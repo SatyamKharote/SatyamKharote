@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Kharote</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" width=400 alt=Coding src="https://www.google.com/search?q=coder+gif&oq=coder+gif&aqs=chrome..69i57j69i59j0i512j0i10i512l7.4975j0j7&sourceid=chrome&ie=UTF-8#imgrc=CVLQvplLvZ78OM">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd2sawANZ9hxEOqJJjmznz4A6RNn8rmZ4NV0oUl0P_&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkharote&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkharote" /> </p>
 
